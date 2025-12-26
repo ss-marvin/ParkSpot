@@ -4,19 +4,16 @@ Snabb och enkel parkerings-app för iPhone.
 
 ## Funktioner
 
-### Kärnfunktioner
-- ✅ **Kamera först** - Ta bild direkt när du parkerar
-- ✅ **GPS-sparning** - Position sparas automatiskt
-- ✅ **Manuell radering** - Ta bort när du hittat bilen
-
-### Avancerade funktioner
-- ✅ **Flexibel parkeringstimer** - Slider från 15 min till 8 timmar
-- ✅ **Anpassningsbara notiser** - Välj 2-3 påminnelser
-- ✅ **Anteckningar** - Våning och övrigt
-- ✅ **Parkeringshistorik** - Med radera-funktion (tid eller allt)
-- ✅ **Dela position** - Skicka till vänner
-- ✅ **Walking directions** - Med kompass
-- ✅ **Spara till kamerarulle** - Valfritt, manuellt
+-  **Kamera först** - Ta bild direkt när du parkerar
+-  **GPS-sparning** - Position sparas automatiskt
+-  **Manuell radering** - Ta bort när du hittat bilen
+-  **Flexibel parkeringstimer** - Slider från 15 min till 8 timmar
+-  **Anpassningsbara notiser** - Välj 2-3 påminnelser
+-  **Anteckningar** - Våning och övrigt
+-  **Parkeringshistorik** - Med radera-funktion (tid eller allt)
+-  **Dela position** - Skicka till vänner
+-  **Walking directions** - Med kompass
+-  **Spara till kamerarulle** - Valfritt, manuellt
 
 ### Kommer snart
 - 🔜 Widget
