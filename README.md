@@ -1,6 +1,6 @@
-# 🚗 ParkSpot
+# ParkSpot
 
-Snabb och enkel parkerings-app för iPhone.
+Snabb och enkel parkeringsapp för iPhone.
 
 ## Funktioner
 
@@ -60,10 +60,10 @@ ParkSpot/
 
 ## Användning
 
-1. **Parkera** - Tryck på den stora blå knappen → Kameran öppnas → Ta bild
+1. **Parkera** - Tryck på den stora blå knappen → Kameran öppnas → Ta bild på bilens plats
 2. **Spara** - Lägg till info (valfritt) → Spara
-3. **Hitta** - Tryck "Hitta bilen" → Följ kompassen
-4. **Klar** - Tryck "Jag har hittat bilen" → Sparas till historik
+3. **Hitta** - Tryck "Hitta bilen" → Följ kompassen och se kartan
+4. **Klar** - Bil hittad? → "Jag har hittat bilen" → Sparas till historik
 
 ---
 Made with ❤️ in Sweden
